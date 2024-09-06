@@ -4,3 +4,4 @@ for i in range(b):
     print(" " * a, end="")
     a += 1
     print("Bonjour Cécile  <prenom>")
+    
